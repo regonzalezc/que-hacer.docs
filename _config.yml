@@ -2,6 +2,10 @@
 title: QueHacer.wiki
 # (string) Description of your wiki
 description: Wiki de debate y construcción de soluciones para Venezuela
+baseurl: "/wiki" # the subpath of your site, e.g. /blog
+url: "https://regonzalezc.github.io/que-hacer.docs/"  #the base hostname & protocol for your site, e.g. http://example.com
+logo: assets/images/logo.jpg
+favicon: assets/images/favicon.ico
 # (boolean) Enable/disable wiki page list in sidebar
 show_wiki_pages: true
 # (integer) Maximum number of wiki page to shown in sidebar
