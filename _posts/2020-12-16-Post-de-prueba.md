@@ -1,9 +1,10 @@
 ---
 layout: git-wiki-post
-title:  "Welcome to Movimiento Libertadores"
+title: Welcome to Movimiento Libertadores
+published: true
 ---
 
-# Welcome
+## Welcome
 
 **Hello world**, this is my first Jekyll blog post.
 
