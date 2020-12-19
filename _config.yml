@@ -2,8 +2,8 @@
 title: QueHacer.wiki
 # (string) Description of your wiki
 description: Wiki de debate y construcción de soluciones para Venezuela
-baseurl: "docs" # the subpath of your site, e.g. /blog
-url: "https://regonzalezc.github.io/que-hacer.docs/"  #the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/docs" # the subpath of your site, e.g. /blog
+url: "https://regonzalezc.github.io/que-hacer.docs"  #the base hostname & protocol for your site, e.g. http://example.com
 logo: assets/images/logo.jpg
 favicon: assets/images/favicon.ico
 # (boolean) Enable/disable wiki page list in sidebar
@@ -35,7 +35,7 @@ wiki_folder: "wiki"
 use_github_wiki: false
 # (boolean) Enable "Edit with Prose.io" button in tools, it's a 3rd party
 # service to edit github markdown pages easily
-use_prose_io: true
+use_prose_io: false
 # Select search_engine component from:
 # - js: it uses a built in javascript component that uses generated js object
 # - js_rss: it uses a built in javascript component that uses generated  sitemap_full.xml to search inside your wiki with lunr library (slow and experimental)
