@@ -2,7 +2,7 @@
 title: QueHacer.wiki
 # (string) Description of your wiki
 description: Wiki de debate y construcción de soluciones para Venezuela
-#baseurl: "/docs" # the subpath of your site, e.g. /blog
+baseurl: "/docs" # the subpath of your site, e.g. /blog
 url: "https://regonzalezc.github.io/que-hacer.docs"  #the base hostname & protocol for your site, e.g. http://example.com
 logo: assets/images/logo.jpg
 favicon: assets/images/favicon.ico
@@ -49,7 +49,7 @@ google_cse_token:
 
 # (string) path of site root. Normally it's must be empty because _config.yml resides in the root of your repository.
 # If you have _config.yml and your site in a subfolder, then change this config accordly 
-site_root: ""
+site_root: 
 
 #
 # Jekyll configurations
