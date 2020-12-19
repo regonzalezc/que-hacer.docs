@@ -1,5 +1,7 @@
 ---
-published: false
+layout: git-wiki-post
+title:  "Noticia"
+published: true
 ---
 ## Noticia
 
