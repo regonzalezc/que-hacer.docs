@@ -3,7 +3,7 @@ title: QueHacer.wiki
 # (string) Description of your wiki
 description: Wiki de debate y construcción de soluciones para Venezuela
 #baseurl: "/docs" # the subpath of your site, e.g. /blog
-url: "https://regonzalezc.github.io/que-hacer.docs"  #the base hostname & protocol for your site, e.g. http://example.com
+#url: "https://re#gonzalezc.github.io/que-hacer.docs"  #the base hostname & protocol for your site, e.g. http://example.com
 logo: assets/images/logo.jpg
 favicon: assets/images/favicon.ico
 # (boolean) Enable/disable wiki page list in sidebar
@@ -72,7 +72,7 @@ defaults:
     scope:
       path: "wiki"
     values:
-      permalink: :basename
+      permalink: /:basename
  -
     scope:
       path: "" # an empty string here means all files in the project
