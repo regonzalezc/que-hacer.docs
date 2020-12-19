@@ -1,7 +1,7 @@
 ---
 redirect_from: /
 published: true
-title: Topico 1
+title: Topic 1
 ---
 
 ## Topico de contenido
